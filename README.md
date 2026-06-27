@@ -17,6 +17,6 @@ CoreNum replicates the foundational C-level mechanics of NumPy. It is designed t
 Ensure you have Python 3.8+ installed. You can install CoreNum locally in editable mode:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/CoreNum.git](https://github.com/YOUR_USERNAME/CoreNum.git)
+git clone [https://github.com/Midnxght-Sudo/CoreNum.git](https://github.com/Midnxght-Sudo/CoreNum.git)
 cd CoreNum
 pip install -e ".[test]"
