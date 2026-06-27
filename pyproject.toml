@@ -7,7 +7,7 @@ name = "corenum"
 version = "0.1.0"
 description = "A high-performance numerical computing and linear algebra library."
 authors = [
-    { name = "Midnxight" }
+    { name = "Midnxght" }
 ]
 requires-python = ">=3.8"
 dependencies = [
